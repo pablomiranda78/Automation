@@ -1,9 +1,9 @@
 # Automation
 **Automation Challenge Exercise Wizeline - Pablo Miranda**
 
-Language Used:**Java**
-Test Framework: **Selenium**
-Test Library for Validations: **TestNG**
+* Language Used:**Java**
+* Test Framework: **Selenium**
+* Test Library for Validations: **TestNG**
 
 **Instructions:** 
 1) The project can be downloaded in the current file Structure to follow the POM design having on one side (Pages) the Classes for every Page in the System and in the other side (Tests) all the Test cases generated that will invoque the WebElements and Methods defined in the previous ones.
