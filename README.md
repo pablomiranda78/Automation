@@ -16,19 +16,19 @@
 **Test Classes linked to each scenario:**
 
 * **1) Login with a valid user**
-- Class: LoginValidUser
+  - Class: LoginValidUser
 * **2) Login with an invalid user**
-- Class: LoginInvalidUser
+  - Class: LoginInvalidUser
 * **3) Logout from the home page**
-- Class: Logout
+  - Class: Logout
 * **4) Sort products by Price (low to high)**
-- Class: SortProductsByPrice
+  - Class: SortProductsByPrice
 * **5) Add multiple items to the shopping cart**
-- Class: MultipleitemsInCart
+  - Class: MultipleitemsInCart
 * **6) Add the specific product ‘Sauce Labs Onesie’ to the shopping cart**
-- Class: AddSpecificItemtoCart
+  - Class: AddSpecificItemtoCart
 * **7) Complete a purchase**
-- Class: CompleteAPurchase
+  - Class: CompleteAPurchase
 
 **Git Repository:**
 https://github.com/pablomiranda78/Automation
