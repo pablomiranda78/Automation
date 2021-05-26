@@ -6,6 +6,7 @@
 * Test Library for Validations: **TestNG**
 
 **Instructions:** 
+**NOTE:** The code is in the Master Branch
 1) The project can be downloaded in the current file Structure to follow the POM design having on one side (Pages) the Classes for every Page in the System and in the other side (Tests) all the Test cases generated that will invoque the WebElements and Methods defined in the previous ones.
 2) You will need an IDE to visualize better the project locally. Can be used any of the common ones like Eclipse, IntelliJ, Visual Studio Code, etc.
 3) This is a java based project, so the Java JDK should be installed in order to use it. https://www.oracle.com/mx/java/technologies/javase-downloads.html
