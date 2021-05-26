@@ -1,7 +1,7 @@
 # Automation
 **Automation Challenge Exercise Wizeline - Pablo Miranda**
 
-* Language Used:**Java**
+* Language Used: **Java**
 * Test Framework: **Selenium**
 * Test Library for Validations: **TestNG**
 
@@ -15,20 +15,20 @@
 
 **Test Classes linked to each scenario:**
 
-**1) Login with a valid user**
-Class: LoginValidUser
-**2) Login with an invalid user**
-Class: LoginInvalidUser
-**3) Logout from the home page**
-Class: Logout
-**4) Sort products by Price (low to high)**
-Class: SortProductsByPrice
-**5) Add multiple items to the shopping cart**
-Class: MultipleitemsInCart
-**6) Add the specific product ‘Sauce Labs Onesie’ to the shopping cart**
-Class: AddSpecificItemtoCart
-**7) Complete a purchase**
-Class: CompleteAPurchase
+* **1) Login with a valid user**
+- Class: LoginValidUser
+* **2) Login with an invalid user**
+- Class: LoginInvalidUser
+* **3) Logout from the home page**
+- Class: Logout
+* **4) Sort products by Price (low to high)**
+- Class: SortProductsByPrice
+* **5) Add multiple items to the shopping cart**
+- Class: MultipleitemsInCart
+* **6) Add the specific product ‘Sauce Labs Onesie’ to the shopping cart**
+- Class: AddSpecificItemtoCart
+* **7) Complete a purchase**
+- Class: CompleteAPurchase
 
 **Git Repository:**
 https://github.com/pablomiranda78/Automation
